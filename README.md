@@ -1,2 +1,2 @@
 # Python_codes
-This repo contains my projects that i developed using python languages
+This repo contains simple calculator made using basic while loop and if, elif condition that uses cli operation
